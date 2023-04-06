@@ -1,0 +1,29 @@
+span {
+    margin-left: 8px;
+}
+
+.right{
+
+    float: right;
+    flex-direction: row;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.parent1 {
+    position: relative;
+    display: block;
+    margin: auto;  
+    margin-top: 130px;
+    text-align: center;
+  }
+
+.parent2 {
+    position: relative;
+    display: block;
+    margin: auto;  
+    text-align: center;
+  }
