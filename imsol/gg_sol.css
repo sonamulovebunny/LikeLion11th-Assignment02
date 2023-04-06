@@ -28,7 +28,7 @@
     top: 200px;
     left: 0%;
     right: 0%;
-    display : block;
+    display : inline-block;
     margin : auto;
     margin-bottom: 10px;
     width: 250px;
@@ -47,8 +47,8 @@
 
   .item {
     position: relative;
-    top: 320px;
-    left: 630px;
+    top: 350px;
+    left: 470px;
     display : inline-block;
     width: 120px;
     height: 30px;
@@ -58,12 +58,12 @@
     display: inline-block;
     float: right;
     margin: 10px;
-    width: 30px;
+    width: 25px;
   }
 
   .menu {
     display: inline-block;
-    float: right;
+    float: left;
     margin: 10px;
   }
 
